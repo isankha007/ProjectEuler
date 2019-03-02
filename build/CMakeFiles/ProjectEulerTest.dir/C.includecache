@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sankhadeepchatterjee/eclipse-workspace/ProjectEulerTest/DigitToword.c
+stdio.h
+-
+string.h
+-
+
